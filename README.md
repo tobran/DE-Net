@@ -7,8 +7,10 @@ Official Pytorch implementation for our paper [DE-Net: Dynamic Text-guided Image
 
 ---
 
-<img src="frame.jpeg" width="952px" height="380px"/>
+<img src="fram.jpeg" width="952px" height="380px"/>
+
 ---
+
 ## Requirements
 - python 3.8
 - Pytorch 1.9
