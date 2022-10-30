@@ -1,0 +1,10 @@
+**/logs
+**/logs*
+**/data/*
+**/checkpoints
+**/imgs*
+**/vals*
+**/samples*
+*.zip
+**/saved_models/*
+**/__pycache__**
